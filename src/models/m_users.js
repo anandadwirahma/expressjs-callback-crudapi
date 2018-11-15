@@ -21,7 +21,7 @@ module.exports = {
                         if (err) {
                             callback(err, null);
                         } else {
-                            callback(null, 'Save Sucess');
+                            callback(null, 'Data Saved');
                         }
                     })
     },
