@@ -8,6 +8,12 @@ Step :
 3. Install package                      : npm install
 4. For running apps                     : npm start
 
+Endpoint :
+1. save data   : http://localhost:3000/users/save   (POST)
+2. get data    : http://localhost:3000/users/       (GET)
+3. update data : http://localhost:3000/users/update (POST)
+4. delete data : http://localhost:3000/users/delete (POST)
+
 
 * Notes :
 
