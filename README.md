@@ -17,9 +17,8 @@ Step :
     - async await
     - etc..
 
-- What is callback :
-    -> Callback is a function inside the parameter.
-    ex :
+- What is callback : Callback is a function inside the parameter.
+    - ex :
         getData(conn, (data) => {
             console.log(data);
         })
