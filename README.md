@@ -19,7 +19,7 @@ Endpoint Product :
 1. save data   : http://localhost:3000/product/save   (POST)
 2. get data    : http://localhost:3000/product/       (GET)
 3. update data : http://localhost:3000/product/update (POST)
-4. delete data : http://localhost:3000/product/delete (POST)
+4. delete data : http://localhost:3000/product/delete (POST)a
 
 
 * Notes :
